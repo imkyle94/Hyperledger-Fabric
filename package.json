@@ -1,0 +1,19 @@
+{
+  "name": "hyperledger-fabric",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkyle94/Hyperledger-Fabric.git"
+  },
+  "author": "Kyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imkyle94/Hyperledger-Fabric/issues"
+  },
+  "homepage": "https://github.com/imkyle94/Hyperledger-Fabric#readme"
+}
